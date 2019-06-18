@@ -2,6 +2,6 @@
 <LightningExperienceTheme xmlns="http://soap.sforce.com/2006/04/metadata">
     <defaultBrandingSet>LEXTHEMINGAdidasPush</defaultBrandingSet>
     <description>The Adidas Theme</description>
-    <masterLabel>AdidasPush</masterLabel>
+    <masterLabel>Adidas</masterLabel>
     <shouldOverrideLoadingImage>false</shouldOverrideLoadingImage>
 </LightningExperienceTheme>
