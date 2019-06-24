@@ -1,1 +1,5 @@
-sfdx force:source:push -f
+cp ./data/ats19*.json .
+sfdx force:data:tree:import -p ./ats19_plan.json
+rm ./ats19*.json
+
+sfdx force:source:push
