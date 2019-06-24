@@ -7,7 +7,7 @@
         <application>ATS19App</application>
         <visible>true</visible>
     </applicationVisibilities>
-    <userPermissions>
+    <!-- userPermissions>
         <enabled>true</enabled>
         <name>APIEnabled</name>
     </userPermissions>
@@ -80,5 +80,5 @@
     <recordTypeVisibilities>
         <recordType>Account.ATS19WholesalePartner</recordType>
         <visible>true</visible>
-    </recordTypeVisibilities>
+    </recordTypeVisibilities -->
 </PermissionSet>
