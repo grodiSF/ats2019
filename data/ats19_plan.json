@@ -1,0 +1,29 @@
+{
+    "records": [
+        {
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "ats19_account_showroom.json",
+            "ats19_account_wholesale.json"
+        ]
+        },    
+        {
+            "sobject": "ATS19Category__c",
+            "saveRefs": true,
+            "resolveRefs": true,
+            "files": [
+            "ats19_category.json"
+            ]
+        },
+        {
+            "sobject": "ATS19CategoryAssignment__c",
+            "saveRefs": true,
+            "resolveRefs": true,
+            "files": [
+            "ats19_category_assignment.json"
+            ]
+        }
+    ]
+}
