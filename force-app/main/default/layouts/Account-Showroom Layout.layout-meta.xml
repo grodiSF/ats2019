@@ -151,13 +151,6 @@
         <relatedList>ATS19CategoryAssignment__c.ATS19Showroom__c</relatedList>
     </relatedLists>
     <relatedLists>
-        <fields>NAME</fields>
-        <fields>ATS19Category__c</fields>
-        <fields>ATS19Start__c</fields>
-        <fields>ATS19Duration__c</fields>
-        <relatedList>ATS19VisitRequest__c.ATS19Showroom__c</relatedList>
-    </relatedLists>
-    <relatedLists>
         <fields>TASK.SUBJECT</fields>
         <fields>TASK.WHO_NAME</fields>
         <fields>TASK.WHAT_NAME</fields>

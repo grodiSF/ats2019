@@ -61,15 +61,6 @@
         <layoutColumns/>
         <style>CustomLinks</style>
     </layoutSections>
-    <relatedLists>
-        <fields>NAME</fields>
-        <fields>ATS19Contact__c</fields>
-        <fields>ATS19Start__c</fields>
-        <fields>ATS19Duration__c</fields>
-        <fields>ATS19To__c</fields>
-        <fields>ATS19Topics__c</fields>
-        <relatedList>ATS19VisitRequest__c.ATS19Category__c</relatedList>
-    </relatedLists>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showHighlightsPanel>false</showHighlightsPanel>
     <showInteractionLogPanel>false</showInteractionLogPanel>
