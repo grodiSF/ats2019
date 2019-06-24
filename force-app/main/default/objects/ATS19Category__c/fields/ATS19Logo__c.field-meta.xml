@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ATS19Logo__c</fullName>
+    <externalId>false</externalId>
+    <formula>IMAGE( if( !ISBLANK(ATS19LogoURL__c),ATS19LogoURL__c,&#39;https://www.adidas.de/on/demandware.static/-/Sites-adidas-DE-Library/default/dw0cb88569/brands-athletics-image-new-ui.jpeg&#39;) ,  Name )</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Logo</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
