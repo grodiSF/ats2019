@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Category</label>
+    <nameField>
+        <label>Category</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Categories</pluralLabel>
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
@@ -50,12 +56,6 @@
         <filterScope>Everything</filterScope>
         <label>All</label>
     </listViews>
-    <label>Category</label>
-    <nameField>
-        <label>Category</label>
-        <type>Text</type>
-    </nameField>
-    <pluralLabel>Categories</pluralLabel>
     <!-- searchLayouts>
         <customTabListAdditionalFields>ATS19Logo__c</customTabListAdditionalFields>
         <customTabListAdditionalFields>ATS19Description__c</customTabListAdditionalFields>
