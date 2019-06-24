@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "RecordType",
+        "saveRefs": false,
+        "resolveRefs": false,
+        "files": [
+            "ats19_account_rt.json"
+        ]
+    }
+]
