@@ -101,8 +101,8 @@
                                             },
                                             {
                                                 "attributes": {"type": "Contact", "referenceId": "WS1_CA1_CA2_C5"},
-                                                "PreferredShowroom__c": "@Ms.",
-                                                "Salutation": "SR7", "FirstName" : "Chloe", "LastName": "Chasam",
+                                                "PreferredShowroom__c": "@SR7",
+                                                "Salutation": "Ms.", "FirstName" : "Chloe", "LastName": "Chasam",
                                                 "MailingCity": "", "MailingCountry": "", "MailingPostalCode": "", "MailingState": "", "MailingStreet": "",
                                                 "MobilePhone": "",
                                                 "Email": ""
