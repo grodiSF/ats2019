@@ -24,6 +24,11 @@
             "attributes": { "type": "ATS19CategoryAssignment__c", "referenceId": "CAT_ASS_SR1_Soccer" },
             "Name":"CAT_ASS_SR1_Soccer", "ATS19FromDate__c": "2019-01-01",
             "ATS19Showroom__c":"@SR1", "ATS19Category__c":"@CAT_Soccer"
+        },
+        {
+            "attributes": { "type": "ATS19CategoryAssignment__c", "referenceId": "CAT_ASS_SR1_Tennis" },
+            "Name":"CAT_ASS_SR1_Tennis", "ATS19FromDate__c": "2019-01-01",
+            "ATS19Showroom__c":"@SR1", "ATS19Category__c":"@CAT_Tennis"
         }
     ]
 }
