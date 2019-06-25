@@ -33,7 +33,7 @@
     },
     {
         "sobject": "ATS19CategoryAssignment__c",
-        "saveRefs": true,
+        "saveRefs": false,
         "resolveRefs": true,
         "files": [
             "ats19_category_assignment.json"
