@@ -14,6 +14,11 @@
             "attributes": { "type": "ATS19CategoryAssignment__c", "referenceId": "CAT_ASS_SR1_Snowboarding" },
             "Name":"CAT_ASS_SR1_Snowboarding", "ATS19FromDate__c": "2019-01-01",
             "ATS19Showroom__c":"@SR1", "ATS19Category__c":"@CAT_Snowboarding"
+        },
+        {
+            "attributes": { "type": "ATS19CategoryAssignment__c", "referenceId": "CAT_ASS_SR1_Running" },
+            "Name":"CAT_ASS_SR1_Running", "ATS19FromDate__c": "2019-01-01",
+            "ATS19Showroom__c":"@SR1", "ATS19Category__c":"@CAT_Running"
         }
     ]
 }
