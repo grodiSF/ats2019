@@ -15,17 +15,17 @@
                                 {
                                     "attributes": { "type": "Account", "referenceId": "WS1_CA1_CA1" },
                                     "Name": "Foot Locker", "Phone": "+49 89 21268805", "Site": "München",
-                                    "RecordTypeId": "ATS19WholesalePartner",
+                                    "RecordTypeId": "ATS19WholesalePartner"
                                 },
                                 {
                                     "attributes": { "type": "Account", "referenceId": "WS1_CA1_CA2" },
                                     "Name": "Foot Locker", "Phone": "+49 551 7977973", "Site": "Göttingen",
-                                    "RecordTypeId": "ATS19WholesalePartner",
+                                    "RecordTypeId": "ATS19WholesalePartner"
                                 },
                                 {
                                     "attributes": { "type": "Account", "referenceId": "WS1_CA1_CA3" },
                                     "Name": "Food Locker", "Site": "Frankfurt", "Phone": "+49 69 21997534",
-                                    "RecordTypeId": "ATS19WholesalePartner",
+                                    "RecordTypeId": "ATS19WholesalePartner"
                                 }
                             ]
                         }
