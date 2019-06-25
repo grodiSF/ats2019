@@ -21,7 +21,7 @@
                                         "records": [
                                             {
                                                 "attributes": {"type": "Contact", "referenceId": "WS1_CA1_CA1_C1"},
-                                                "PreferredShowroom__c": "@SR5",
+                                                "PreferredShowroom__c": "@SR1",
                                                 "Salutation": "Mr.", "FirstName" : "Bernd", "LastName": "Bloom",
                                                 "MailingCity": "", "MailingCountry": "", "MailingPostalCode": "", "MailingState": "", "MailingStreet": "",
                                                 "MobilePhone": "",
@@ -29,7 +29,7 @@
                                             },
                                             {
                                                 "attributes": {"type": "Contact", "referenceId": "WS1_CA1_CA1_C2"},
-                                                "PreferredShowroom__c": "@SR5",
+                                                "PreferredShowroom__c": "@SR1",
                                                 "Salutation": "Ms.", "FirstName" : "Bea", "LastName": "Bims",
                                                 "MailingCity": "", "MailingCountry": "", "MailingPostalCode": "", "MailingState": "", "MailingStreet": "",
                                                 "MobilePhone": "",
@@ -37,7 +37,7 @@
                                             },
                                             {
                                                 "attributes": {"type": "Contact", "referenceId": "WS1_CA1_CA1_C3"},
-                                                "PreferredShowroom__c": "@SR6",
+                                                "PreferredShowroom__c": "@SR1",
                                                 "Salutation": "Ms.", "FirstName" : "Kate", "LastName": "Kaler",
                                                 "MailingCity": "", "MailingCountry": "", "MailingPostalCode": "", "MailingState": "", "MailingStreet": "",
                                                 "MobilePhone": "",
@@ -45,7 +45,7 @@
                                             },
                                             {
                                                 "attributes": {"type": "Contact", "referenceId": "WS1_CA1_CA1_C4"},
-                                                "PreferredShowroom__c": "@SR6",
+                                                "PreferredShowroom__c": "@SR1",
                                                 "Salutation": "Mr.", "FirstName" : "Steven", "LastName": "Stohle",
                                                 "MailingCity": "", "MailingCountry": "", "MailingPostalCode": "", "MailingState": "", "MailingStreet": "",
                                                 "MobilePhone": "",
@@ -53,7 +53,7 @@
                                             },
                                             {
                                                 "attributes": {"type": "Contact", "referenceId": "WS1_CA1_CA1_C5"},
-                                                "PreferredShowroom__c": "@SR6",
+                                                "PreferredShowroom__c": "@SR1",
                                                 "Salutation": "Mr.", "FirstName" : "Kenneth", "LastName": "Kiliman",
                                                 "MailingCity": "", "MailingCountry": "", "MailingPostalCode": "", "MailingState": "", "MailingStreet": "",
                                                 "MobilePhone": "",
