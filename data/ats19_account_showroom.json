@@ -1,0 +1,54 @@
+{
+    "records": [
+        {
+            "attributes": { "type": "Account", "referenceId": "SR1" },
+            "RecordTypeId": "ATS19Showroom",
+            "Name": "SR1"
+        },
+        {
+            "attributes": { "type": "Account", "referenceId": "SR2" },
+            "RecordTypeId": "ATS19Showroom",
+            "Name": "SR2"
+        },
+        {
+            "attributes": { "type": "Account", "referenceId": "SR3" },
+            "RecordTypeId": "ATS19Showroom",
+            "Name": "SR3"
+        },
+        {
+            "attributes": { "type": "Account", "referenceId": "SR4" },
+            "RecordTypeId": "ATS19Showroom",
+            "Name": "SR4"
+        },
+        {
+            "attributes": { "type": "Account", "referenceId": "SR5" },
+            "RecordTypeId": "ATS19Showroom",
+            "Name": "SR5"
+        },
+        {
+            "attributes": { "type": "Account", "referenceId": "SR6" },
+            "RecordTypeId": "ATS19Showroom",
+            "Name": "SR6"
+        },
+        {
+            "attributes": { "type": "Account", "referenceId": "SR7" },
+            "RecordTypeId": "ATS19Showroom",
+            "Name": "SR7"
+        },
+        {
+            "attributes": { "type": "Account", "referenceId": "SR8" },
+            "RecordTypeId": "ATS19Showroom",
+            "Name": "SR8"
+        },
+        {
+            "attributes": { "type": "Account", "referenceId": "SR9" },
+            "RecordTypeId": "ATS19Showroom",
+            "Name": "SR9"
+        },
+        {
+            "attributes": { "type": "Account", "referenceId": "SR10" },
+            "RecordTypeId": "ATS19Showroom",
+            "Name": "SR10"
+        }
+    ]
+}
