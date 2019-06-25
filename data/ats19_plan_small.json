@@ -4,6 +4,14 @@
         "saveRefs": true,
         "resolveRefs": false,
         "files": [
+            "ats19_account_showroom_small.json"
+        ]
+    },
+    {
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
             "ats19_account_wholesalepartner_small.json"
         ]
     }

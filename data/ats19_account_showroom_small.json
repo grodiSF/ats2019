@@ -1,0 +1,9 @@
+{
+    "records": [
+        {
+            "attributes": { "type": "Account", "referenceId": "SR1" },
+            "RecordTypeId": "ATS19Showroom",
+            "Name": "SR1"
+        }
+    ]
+}
