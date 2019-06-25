@@ -10,7 +10,7 @@
     {
         "sobject": "Account",
         "saveRefs": true,
-        "resolveRefs": false,
+        "resolveRefs": true,
         "files": [
             "ats19_account_wholesalepartner_small.json"
         ]

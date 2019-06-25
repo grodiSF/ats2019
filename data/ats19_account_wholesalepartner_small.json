@@ -10,12 +10,57 @@
                         "attributes": { "type": "Account", "referenceId": "WS1_CA1"  },
                         "Name": "Foot Locker Germany GmbH", "Phone": "+49 800 5888232",
                         "RecordTypeId": "ATS19WholesalePartner",
+
                         "ChildAccounts":{
                             "records": [
                                 {
                                     "attributes": { "type": "Account", "referenceId": "WS1_CA1_CA1" },
                                     "Name": "Foot Locker", "Phone": "+49 89 21268805", "Site": "München",
-                                    "RecordTypeId": "ATS19WholesalePartner"
+                                    "RecordTypeId": "ATS19WholesalePartner",
+                                    "Contacts":{
+                                        "records": [
+                                            {
+                                                "attributes": {"type": "Contact", "referenceId": "WS1_CA1_CA1_C1"},
+                                                "PreferredShowroom__c": "@SR5",
+                                                "Salutation": "Mr.", "FirstName" : "Bernd", "LastName": "Bloom",
+                                                "MailingCity": "", "MailingCountry": "", "MailingPostalCode": "", "MailingState": "", "MailingStreet": "",
+                                                "MobilePhone": "",
+                                                "Email": ""
+                                            },
+                                            {
+                                                "attributes": {"type": "Contact", "referenceId": "WS1_CA1_CA1_C2"},
+                                                "PreferredShowroom__c": "@SR5",
+                                                "Salutation": "Ms.", "FirstName" : "Bea", "LastName": "Bims",
+                                                "MailingCity": "", "MailingCountry": "", "MailingPostalCode": "", "MailingState": "", "MailingStreet": "",
+                                                "MobilePhone": "",
+                                                "Email": ""
+                                            },
+                                            {
+                                                "attributes": {"type": "Contact", "referenceId": "WS1_CA1_CA1_C3"},
+                                                "PreferredShowroom__c": "@SR6",
+                                                "Salutation": "Ms.", "FirstName" : "Kate", "LastName": "Kaler",
+                                                "MailingCity": "", "MailingCountry": "", "MailingPostalCode": "", "MailingState": "", "MailingStreet": "",
+                                                "MobilePhone": "",
+                                                "Email": ""
+                                            },
+                                            {
+                                                "attributes": {"type": "Contact", "referenceId": "WS1_CA1_CA1_C4"},
+                                                "PreferredShowroom__c": "@SR6",
+                                                "Salutation": "Mr.", "FirstName" : "Steven", "LastName": "Stohle",
+                                                "MailingCity": "", "MailingCountry": "", "MailingPostalCode": "", "MailingState": "", "MailingStreet": "",
+                                                "MobilePhone": "",
+                                                "Email": ""
+                                            },
+                                            {
+                                                "attributes": {"type": "Contact", "referenceId": "WS1_CA1_CA1_C5"},
+                                                "PreferredShowroom__c": "@SR6",
+                                                "Salutation": "Mr.", "FirstName" : "Kenneth", "LastName": "Kiliman",
+                                                "MailingCity": "", "MailingCountry": "", "MailingPostalCode": "", "MailingState": "", "MailingStreet": "",
+                                                "MobilePhone": "",
+                                                "Email": ""
+                                            }
+                                        ]
+                                    }
                                 },
                                 {
                                     "attributes": { "type": "Account", "referenceId": "WS1_CA1_CA2" },
