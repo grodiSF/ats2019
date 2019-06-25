@@ -1,27 +1,11 @@
 [
     {
-    "sobject": "Account",
-    "saveRefs": true,
-    "resolveRefs": true,
-    "files": [
-        "ats19_account_showroom.json",
-        "ats19_account_wholesalepartner.json"
-    ]
-    },    
-    {
-        "sobject": "ATS19Category__c",
+        "sobject": "Account",
         "saveRefs": true,
         "resolveRefs": true,
         "files": [
-        "ats19_category.json"
-        ]
-    },
-    {
-        "sobject": "ATS19CategoryAssignment__c",
-        "saveRefs": true,
-        "resolveRefs": true,
-        "files": [
-        "ats19_category_assignment.json"
+            "ats19_account_showroom.json",
+            "ats19_account_wholesalepartner.json"
         ]
     }
 ]
