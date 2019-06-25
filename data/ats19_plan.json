@@ -4,8 +4,8 @@
         "saveRefs": true,
         "resolveRefs": true,
         "files": [
-            "ats19_account_showroom.json",
-            "ats19_account_wholesalepartner.json"
+            "ats19_account_showroom.json"
+            
         ]
     }
 ]
