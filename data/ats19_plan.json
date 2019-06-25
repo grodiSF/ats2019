@@ -16,6 +16,14 @@
         ]
     },
     {
+        "sobject": "Contact",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "ats19_contact.json"
+        ]
+    },
+    {
         "sobject": "ATS19Category__c",
         "saveRefs": true,
         "resolveRefs": true,
