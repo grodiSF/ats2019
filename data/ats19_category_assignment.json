@@ -4,21 +4,6 @@
             "attributes": { "type": "ATS19CategoryAssignment__c", "referenceId": "CAT_ASS_SR1_Outdoor" },
             "Name":"Name will be overridden", "ATS19FromDate__c": "2018-01-01",
             "ATS19Showroom__c":"@SR1", "ATS19Category__c":"@CAT_Outdoor"
-        },
-        {
-            "attributes": { "type": "ATS19CategoryAssignment__c", "referenceId": "CAT_ASS_SR1_Boxing" },
-            "Name":"Name will be overridden", "ATS19FromDate__c": "2018-01-02",
-            "ATS19Showroom__c":"@SR1", "ATS19Category__c":"@CAT_Boxing"
-        },
-        {
-            "attributes": { "type": "ATS19CategoryAssignment__c", "referenceId": "CAT_ASS_SR1_Snowboarding" },
-            "Name":"Name will be overridden", "ATS19FromDate__c": "2018-03-01",
-            "ATS19Showroom__c":"@SR1", "ATS19Category__c":"@CAT_Snowboarding"
-        },
-        {
-            "attributes": { "type": "ATS19CategoryAssignment__c", "referenceId": "CAT_ASS_SR1_Hockey" },
-            "Name":"Name will be overridden", "ATS19FromDate__c": "2018-01-04",
-            "ATS19Showroom__c":"@SR1", "ATS19Category__c":"@CAT_Hockey"
         }
     ]
 }

@@ -28,7 +28,7 @@
         "saveRefs": true,
         "resolveRefs": true,
         "files": [
-        "ats19_category.json"
+            "ats19_category.json"
         ]
     },
     {
@@ -36,7 +36,7 @@
         "saveRefs": true,
         "resolveRefs": true,
         "files": [
-        "ats19_category_assignment.json"
+            "ats19_category_assignment.json"
         ]
     }
 ]
