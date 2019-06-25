@@ -22,8 +22,39 @@
         },
         {
             "title": "Step 5: Records",
-            "body": "<p>Really nice, or?</p> To make it easy for you I've also created a set of data you can use to explore the app!",
-            "button": "Push sample data, please"
+            "body": "<p>Really nice, or?</p><p>To make it easy for you I've also created a set of data you can use to explore the app! Before getting the records, let's make one addition: change the name of the Category Assignment in that way that it will override the users input by using the name of the showroom and of the category ... all done by Clicks ...</p>",
+            "button": "... and then push sample data, please!"
+        },
+        {
+            "title": "Step 6: Now let's add the Showroom Visit Request Custom Object",
+            "body": "<p>Do you remember Data Model?</p><p><b>Just follow Dirk!</b></p>",
+            "button": "I've did what the guy in front said!"
         }
+        ,
+        {
+            "title": "Step 7: Getting a response for the Request",
+            "body": "<p>The Lightning Platform provides easy ways to create and customize business logic. We make it easy to build entire apps using nothing but clicks with tools including the Approval Process Setup.</p><p>And you can turbocharge your business logic and solve hard problems with code tools and frameworks like Apex. Like Java, Apex is an object-oriented language that works in the cloud and has APIs for creating, compiling and debugging code.!</p>",
+            "button": "So, lets create an Approval Process for that, and don't forget to enable the Collaboration feature to get inline approval possibilities!"
+        },
+        {
+            "title": "Step 8: What about Reporting & Dashboarding?",
+            "body": "<p>Sure.!</p>",
+            "button": "I did it!"
+        },
+        {
+            "title": "Step 9: ... Mobile?",
+            "body": "<p>Done already.!</p>",
+            "button": "Ok ..."
+        },{
+            "title": "Step 9: But still intenal right?!",
+            "body": "<p>Yes, but everything we've done so far we can easily bring to our Wholesales Partner.</p>",
+            "button": "Gorgeous!"
+        },
+        {
+            "title": "Step 10: Take a Breath?!",
+            "body": "This is the end of the show, let's finish this session with a last slide.",
+            "button": "Thank you!"
+        }
+
     ]
 }
