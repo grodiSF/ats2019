@@ -15,7 +15,7 @@
                                 {
                                     "attributes": { "type": "Account", "referenceId": "WS1_CA1_CA1" },
                                     "Name": "Foot Locker", "Phone": "+49 89 21268805", "Site": "München",
-                                    "RecordTypeId": "ATS19WholesalePartner",
+                                    "RecordTypeId": "ATS19WholesalePartner"
                                 },
                                 {
                                     "attributes": { "type": "Account", "referenceId": "WS1_CA1_CA2" },
