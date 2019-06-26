@@ -3,29 +3,29 @@
         {
             "attributes": { "type": "Account", "referenceId": "WS1" },
             "AnnualRevenue": 7782000000, "BillingCity": "New York City", "BillingCountry": "United States", "BillingState": "New York", "BillingStreet": "330 West 34th Street", "Description": "Foot Locker Retail, Inc. is an American sportswear and footwear retailer, with its headquarters in Midtown Manhattan, New York City, and operating in 28 countries worldwide.\n\nAlthough established in 1974, and founded as a separate company in 1988, Foot Locker is a successor corporation to the F. W. Woolworth Company (“Woolworth's”), as many of its freestanding stores were former Kinney Shoes and Woolworth's locations. The company operates the eponymous “Foot Locker” chain of athletic footwear retail outlets (along with “Kids Foot Locker” and “Lady Foot Locker” stores), and other athletic-based divisions including Champs Sports, Footaction USA, House of Hoops, and Eastbay/Footlocker.com, which owns the rights to Final-Score. The company is also famous for its employees' uniforms at its flagship Foot Locker chain, resembling those of referees.\n\nAccording to the company's filings with the SEC, as of January 28, 2017, Foot Locker, Inc. had 3,363 primarily mall-based stores in the United States, Canada, Europe, and Asia.", "Fax": 23456789, "Name": "Foot Locker, Inc", "NumberOfEmployees": 32000, "Phone": 12345678, "ShippingCity": "New York City", "ShippingCountry": "United States", "ShippingState": "New York", "ShippingStreet": "330 West 34th Street", "Website": "www.footlocker.com",
-            "RecordTypeId": "ATS19WholesalePartner",
+            "RecordTypeId": "ATS19WholesalePartner", "SAPID__c": "17100001",
             "ChildAccounts":{
                 "records": [
                     {
                         "attributes": { "type": "Account", "referenceId": "WS1_CA1"  },
                         "Name": "Foot Locker Germany GmbH", "Phone": "+49 800 5888232",
-                        "RecordTypeId": "ATS19WholesalePartner",
+                        "RecordTypeId": "ATS19WholesalePartner", "SAPID__c": "USCU-CUS21",
                         "ChildAccounts":{
                             "records": [
                                 {
                                     "attributes": { "type": "Account", "referenceId": "WS1_CA1_CA1" },
                                     "Name": "Foot Locker", "Phone": "+49 89 21268805", "Site": "München",
-                                    "RecordTypeId": "ATS19WholesalePartner"
+                                    "RecordTypeId": "ATS19WholesalePartner", "SAPID__c": "USCU-CUS24"
                                 },
                                 {
                                     "attributes": { "type": "Account", "referenceId": "WS1_CA1_CA2" },
                                     "Name": "Foot Locker", "Phone": "+49 551 7977973", "Site": "Göttingen",
-                                    "RecordTypeId": "ATS19WholesalePartner"
+                                    "RecordTypeId": "ATS19WholesalePartner", "SAPID__c": "USCU-CUS22"
                                 },
                                 {
                                     "attributes": { "type": "Account", "referenceId": "WS1_CA1_CA3" },
                                     "Name": "Food Locker", "Site": "Frankfurt", "Phone": "+49 69 21997534",
-                                    "RecordTypeId": "ATS19WholesalePartner"
+                                    "RecordTypeId": "ATS19WholesalePartner", "SAPID__c": "USCU-CUS07"
                                 }
                             ]
                         }
