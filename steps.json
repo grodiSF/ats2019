@@ -3,32 +3,32 @@
         {
             "title": "Step 1: Creating a Scratch Org",
             "body": "<p>We are going to create a new <b>Scratch Org</b>, which is an ephemeral dev environnement.</p><p>In more detail the scratch org is a source-driven and disposable deployment of Salesforce code and metadata. It is fully configurable, allowing developers to emulate different Salesforce editions with different features and preferences. You can share the scratch org configuration file with other team members, so you all have the same basic org in which to do your development.</p><p>And I've done this already, to prepare the show cooking today, would mean I will share my scratch org configuration file with you and create step by step the application with allof you.</p><p>Scratch orgs drive developer productivity and collaboration during the development process, and facilitate automated testing and continuous integration. You can use the CLI or IDE to open your scratch org in a browser without logging in. You might spin up a new scratch org when you want to:<ol class=\"slds-list_ordered\"><li>Start a new project.</li><li>Start a new feature branch.</li><li>Test a new feature.</li><li>Start automated testing.</li><li>Perform development tasks directly in an org.</li><li>Start from “scratch” with a fresh new org.</li></ol></p><p>The Scratch Org is part of Salesforce DX, which enables your team to build apps together using the tools you love, while moving fast and delivering value. Use extensions we provide for VS Code, but if you love IntelliJ or Sublime you can use those too. We've made it easier for you to continuously develop and deliver your apps with a focus on testing services and tools with improved delivery through the use of packaging and change sets. I'm using today Salesforce DX deployed on our PaaS Heroku, connected to my Developer Hub and using a Git repository to retrieve metadata and data to update your environments.</p>",
-            "button": "Stop talking and let me create <b>MY OWN</b> Scratch Org"
+            "button": "Create <b>MY OWN</b> Scratch Org"
         },
         {
             "title": "Step 2: Getting familiar with UI, UX .... hmmm with the Lightning Platform concept.",
             "body": "<p>The Lightning Platform delivers out-of-the-box tools and services to automate your business processes, integrate with external applications, provide responsive layouts and more. From no-code builders to pro-code tools, the Lightning Platform's enterprise services and metadata-driven, multi-tenant cloud architecture means that you can focus on what makes your business better from the competition.</p>",
-            "button": "Ok, I've got it - let's go ahead!"
+            "button": "Let's go ahead!"
         },
         {
             "title": "Step 3: Theming",
             "body": "<p>Come on, that looks not like Adidas, can we use somehow our CI?</p><p><b>YES!</b> Rally your team around your brand and important initiatives, like a new product launch, with a set of custom brand images and colors in your org. We call them themes. You can choose one of the built-in Salesforce themes, or create your own custom themes with just a few clicks.</p><p>And by the way I don't speak English and want to use my locale settings for date/time/currency!</p>",
-            "button": "Get the Adidas Theme and tell me how to perosnalize the system!"
+            "button": "Push the Adidas Theme!"
         },
         {
             "title": "Step 4: Datamodel",
             "body": "<p>A data model is more or less what it sounds like. It’s a way to model what database tables look like in a way that makes sense to humans.</p><p>In Salesforce, we think about database tables as objects, we think about columns as fields, and rows as records. So we have an Contact object with fields and a bunch of identically structured records.</p><p>When we talk about the data model, we’re talking about the collection of objects and fields in an app. Let’s learn more about objects and fields so you can start building your own data model.</p><p>Salesforce supports several different types of objects. There are <ol class=\"slds-list_ordered\"><li>standard objects,</li><li>custom objects,</li><li>external objects,</li><li>platform events,</li><li>and BigObjects.</li></ol></p><p><b>Standard objects:</b> are objects that are included with Salesforce. Common business objects like Account, Contact, Lead, and Opportunity are all standard objects.</p><p><b>Custom objects:</b> are objects that you create to store information that’s specific to your company or industry. For us, you want to build a custom Property object that stores information about Categories or Showroom Visit Requests.</p>Objects are containers for your information, but they also give you special functionality. For example, when you create a custom object, the platform automatically builds things like the page layout for the user interface, the CRUD REST/SOAP API, hook the data up into reports and dashboards, integrate them into a social graph, etc</p>",
-            "button": "Deploy me the Foundation Data Model for the APP"
+            "button": "Deploy the Foundation Data Model"
         },
         {
             "title": "Step 5: Records",
             "body": "<p>Really nice, or?</p><p>To make it easy for you I've also created a set of data you can use to explore the app! Before getting the records, let's make one addition: change the name of the Category Assignment in that way that it will override the users input by using the name of the showroom and of the category ... all done by Clicks ...</p>",
-            "button": "... and then push sample data, please!"
+            "button": "Push sample data, please!"
         },
         {
             "title": "Step 6: Now let's add the Showroom Visit Request Custom Object",
             "body": "<p>Do you remember Data Model?</p><p><b>Just follow Dirk!</b></p>",
-            "button": "I've did what the guy in front said!"
+            "button": "I've did that!"
         },
         {
             "title": "Step 7: It's to complicated to make all the clicks!",
@@ -37,25 +37,30 @@
         },
         {
             "title": "Step 8: Getting a response for the Request",
-            "body": "<p>The Lightning Platform provides easy ways to create and customize business logic. We make it easy to build entire apps using nothing but clicks with tools including the Approval Process Setup.</p><p>And you can turbocharge your business logic and solve hard problems with code tools and frameworks like Apex. Like Java, Apex is an object-oriented language that works in the cloud and has APIs for creating, compiling and debugging code.</p>",
-            "button": "So, lets create an Approval Process for that, and don't forget to enable the Collaboration feature to get inline approval possibilities!"
+            "body": "<p>The Lightning Platform provides easy ways to create and customize business logic. We make it easy to build entire apps using nothing but clicks with tools including the Approval Process Setup.</p><p>And you can turbocharge your business logic and solve hard problems with code tools and frameworks like Apex. Like Java, Apex is an object-oriented language that works in the cloud and has APIs for creating, compiling and debugging code.</p><p>So, lets create an Approval Process for that, and don't forget to enable the Collaboration feature to get inline approval possibilities!</p>",
+            "button": "Ready!"
         },
         {
-            "title": "Step 9: What about Reporting & Dashboarding?",
+            "title": "Step 9: Integration",
+            "body": "<p>The power of the Lightning Platform means you can design and build your apps using a variety of strategies. You can use no-code integration capabilities like Salesforce Connect and the new External Services Wizard to immediately link multiple systems. Or you can use a comprehensive suite of REST and SOAP APIs for specialized integration demands.</p>",
+            "button": "Let's do the SAP oData Integration"
+        },        
+        {
+            "title": "Step 10: What about Reporting & Dashboarding?",
             "body": "<p>Sure!</p>",
             "button": "I did it!"
         },
         {
-            "title": "Step 10: ... Mobile?",
+            "title": "Step 11: ... Mobile?",
             "body": "<p>Done already.!</p>",
             "button": "Ok ..."
         },{
-            "title": "Step 11: But still intenal right?!",
+            "title": "Step 12: But still intenal right?!",
             "body": "<p>Yes, but everything we've done so far we can easily bring to our Wholesales Partner.</p>",
             "button": "Gorgeous!"
         },
         {
-            "title": "Step 12: Take a Breath?!",
+            "title": "Step 13: Take a Breath?!",
             "body": "This is the end of the show, let's finish this session with a last slide.",
             "button": "Thank you!"
         }
