@@ -132,8 +132,8 @@
             "attributes": { "type": "Account", "referenceId": "SR19" },
             "RecordTypeId": "ATS19Showroom",
             "Name": "SR Singapore",
-            "BillingCity": "Singapore", "BillingCountry":"Singapore",
-            "ShippingCity": "Singapore", "ShippingCountry": "Singapore"
+            "BillingCity": "Singapore", "BillingCountry":"Malaysia",
+            "ShippingCity": "Singapore", "ShippingCountry": "Malaysia"
         },
         {
             "attributes": { "type": "Account", "referenceId": "SR20" },
